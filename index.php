@@ -9,6 +9,11 @@
     body{ 
         background: yellow;
     }
+  header{
+      text-align:center;
+      text-shadow: 2px 2px grey;
+  }
+    }
     h1{
         position:absolute;
         top: 45%;
@@ -17,7 +22,10 @@
         </style>
 </head>
 <body>
+<header>Bonjour</header>
+
 <h1>Vivement le mechoui ce midi</h1>
+
     
 </body>
 </html>
