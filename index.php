@@ -6,6 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>GIT test</title>
     <style>
+    body{ 
+        background: yellow;
+    }
     h1{
         position:absolute;
         top: 45%;
